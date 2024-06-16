@@ -1,0 +1,28 @@
+.Header{
+    height: 800px;
+    width: 100%;
+}
+.headerTitles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: cursive;
+    color: #444;
+}
+
+.headerTitleSm{
+    font-size: 18px;
+    position: absolute;
+    top: 18%;
+}
+.headerTitleLg{
+    font-size: 100px;
+    position: absolute;
+    top: 18%;
+}
+.headerImg{
+    width: 100%;
+    object-fit:cover;
+    height: 600px;
+    margin-top: 80px;
+}
