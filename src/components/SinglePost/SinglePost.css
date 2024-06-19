@@ -2,7 +2,7 @@
     flex:9;
 }
 .singlePostWrapper{
-    padding: 20px;
+    padding: 20px 40px;
     padding-right: 0px;
 
 }
@@ -17,6 +17,10 @@
     margin: 10px;
     text-align: center;
     font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 40px;
 }
 .singlePostEdit{
     float: right;
@@ -35,7 +39,7 @@
     color: tomato;
 }
 .singlePostInfo{
-    margin-bottom: 20px ;
+    margin: 20px  ;
     font-size: 18px;
     display: flex;
     justify-content: space-between;
@@ -46,7 +50,8 @@
 }
 .singlePostDesc{
     color: #666;
-    font-size: 19px;
+    font-size: 1rem;
+    padding: 20px 40px;
 
 }
 .singlePostDesc::first-letter{
