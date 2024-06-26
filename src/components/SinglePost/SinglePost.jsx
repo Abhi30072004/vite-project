@@ -22,7 +22,7 @@ function SinglePost() {
          solutions for creating beautiful living spaces. Whether you're updating a single
           room or transforming your entire home, this blog provides inspiration and exper
           t advice to help you achieve a modern, chic aesthetic. Discover the latest trends,
-           from minimalist décor to bold color palettes, and learn how to incorporate them into 
+           from minimalist décor  bold color palettes, and learn how to incorporate them into 
            your own space. With tips on furniture selection, layout optimization, and personalized t
            ouches, "The Interior Edit" empowers you to curate a home that reflects your unique taste and lifestyle.
 
