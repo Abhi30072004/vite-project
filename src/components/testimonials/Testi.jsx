@@ -1,6 +1,6 @@
 import './testi.css'
 
-const Testi = () => {
+function Testi () {
   return (
     <div className='t' id='t'>
     <h1 >Testimonials</h1>
@@ -42,8 +42,7 @@ const Testi = () => {
             <h4>Spanish Actor</h4>
             </div>
         </div>
-        {/* <div className="card"></div>
-        <div className="card"></div> */}
+       
     </div>
     </div>
   )
