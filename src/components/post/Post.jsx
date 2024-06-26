@@ -14,7 +14,7 @@ function Post(props) {
         <span className="postDate">1 hr ago</span>
 
       </div>
-      <p className="postDesc">  the profound impact of music on our daily experiences, from personal growth and 
+      <p className="postDesc">MY big brother is very kanjoss.  the profound impact of music on our daily experiences, from personal growth and 
         inspiration to cultural trends and unforgettable moments, all harmonized through sound.
 </p>
 
