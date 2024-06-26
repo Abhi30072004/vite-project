@@ -2,7 +2,7 @@ import './register.css'
 
 function Login() {
   return (
-    <div className='login'>
+    <div className='register'>
         <h2 className="formTitle">Register</h2>
       <form  className="loginForm">
       <label className='loginLabel'>UserName</label>
@@ -14,11 +14,11 @@ function Login() {
         <input type="text" placeholder='enter your password 
         ....'  className='loginInput' />
         <button className="loginButton">
-          Login
+          Register
         </button>
       </form>
       <button className="loginRegisterButton">
-        Register 
+        Login
       </button>
     </div>
   )

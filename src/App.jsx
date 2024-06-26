@@ -7,6 +7,7 @@ import Write from "./pages/Write.jsx";
 import Login from "./pages/login/Login.jsx";
 import Register from "./pages/Register/Register.jsx"
 import Posts from "./components/posts/Post.jsx";
+import Testi from "./components/testimonials/Testi.jsx";
 
 import {
   BrowserRouter,
@@ -29,6 +30,8 @@ function App(){
         <Route path="/register/*" element={<Register />} />
         <Route path="/write/*" element={<Write />} />
         <Route path="/about/*" element={<Posts />} />
+        <Route path="/testi/*" element={<Testi />} />
+      
       </Routes>
     </BrowserRouter>
        
